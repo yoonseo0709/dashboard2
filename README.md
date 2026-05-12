@@ -4,7 +4,7 @@ https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2210KJUNT8ZSjgQdc
 
 # 데이터와 시각화 결과 설명
 
-< 서울시 도시 데이터 분석>
+< 데이터로 찾은 서울의 숨은 꿀단지: 주거 가성비 분석 >
 ---
 
 ## 1. 분석 목적 ##

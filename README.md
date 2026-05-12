@@ -4,7 +4,7 @@ https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2210KJUNT8ZSjgQdc
 
 # 데이터와 시각화 결과 설명
 
-#< 서울시 도시 데이터 분석>
+< 서울시 도시 데이터 분석>
 ---
 
 ## 1. 분석 목적 ##
